@@ -113,3 +113,14 @@ Layout: Mini Typewriter (6Btn 2Kn)
 	B6,45,50
 	K1,5,5
 	K2,45,5
+
+Layout: 6 buttons 1 knob
+	1189:8890
+	3:18:1:1:6
+	B1,5,5
+	B2,25,5
+	B3,45,5
+	B4,5,25
+	B5,25,25
+	B6,45,25
+	K1,70,8
